@@ -1,8 +1,7 @@
-## Next.js with Styled-Components
+# Next.js with Styled-Components
 
-| Frontend Framework | [Next.js](https://nextjs.org) |
-| --- | --- |
-| Method of Styling  | Styled Components |
-| Linting | ESLint |
-| Formatting | Prettier |
-| CSS Reset | Normalize CSS |
+## Technology
+- [Next.js](https://nextjs.org)
+- Styled Components
+- ESLint and Prettier (Wes Bos)
+- Normalize CSS
